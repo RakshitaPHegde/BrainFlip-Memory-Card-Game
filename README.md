@@ -95,3 +95,13 @@ Open a terminal in the project folder and run:
 
 ```bash
 python main.py
+## 📸 Screenshots
+
+### 🎮 Game Board
+![BrainFlip Game Board](SCREENSHOT%203.jpeg)
+
+### 🏆 Level Completed
+![Level Completed](SCREENSHOT%201.jpeg)
+
+### ⏰ Time Up / Try Again
+![Time Up](SCREENSHOT%202.jpeg)
