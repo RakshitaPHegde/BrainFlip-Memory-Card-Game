@@ -95,6 +95,7 @@ Open a terminal in the project folder and run:
 
 ```bash
 python main.py
+'''**
 ## 📸 Screenshots
 
 ### 🎮 Game Board
